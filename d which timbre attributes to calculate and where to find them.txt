@@ -1,0 +1,11 @@
+Good sources for basic timbre definitions:
+
+Farbood/Price: usual spectral centroid etc. Interesting inharmonicity but that might require pitch tracking that I don't have. Roughness cites Sethares, I shoudld look at that too.
+
+MacCallum/Einbond: has a nice "roughness," but I should probe its genesis further
+
+Peeter/Giordano/et al: Timbre toolbox! Again outlines stuff, useful enough.
+
+Pressnitzer/McAdams cites Bradley-Terry-Luce, from David 1988? not too useful
+
+Klapuri/Davy Ch5
